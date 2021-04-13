@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EricliuLiang
-- 👀 I’m interested in Representation Learning , Deep Clustering and Software development
+- 👀 I’m interested in Representation Learning , Multi model(view) clustering, Deep Clustering and Software development
 - 🌱 My major is computer science and technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , please send me email by liu_liang97@163.com
